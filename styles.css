@@ -1,0 +1,4 @@
+@media screen and (max-height: 450px) {
+   #navbar  {padding-top: 15px;}
+   #navbar  a {font-size: 18px;}
+ }
